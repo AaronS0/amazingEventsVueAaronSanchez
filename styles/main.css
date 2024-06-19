@@ -1,0 +1,67 @@
+body {
+    background-color: darkgray;
+}
+
+.navbar-nav {
+    width: 50;
+}
+
+.navImg{
+    width: 8vw;
+}
+
+h2 {
+    font-family: Arial Black;
+    font-weight: bold;
+    font-size: 4vw;
+    background: #202020;
+    background-clip: text;
+    color: transparent;
+    text-shadow: 0px 3px 0px rgba(255, 255, 255, 0.4), 0px -1px 1px rgba(0, 0, 0, 0.5);
+}
+
+.carousel-item {
+    height: 40vh;
+}
+
+.col {
+    width: 20vw;
+    height: 70vh;
+    margin: 2vw;
+}
+
+#check,
+#cohort {
+    color: whitesmoke;
+    width: 15vw;
+    margin: 0;
+}
+
+#check {
+    width: 70vw;
+}
+
+#form {
+    width: 40vw;
+    height: 70vh;
+    color: black;
+    margin-left: 30vw;
+}
+
+#details,
+#tabla {
+    width: 85vw;
+    margin-top: 3vh;
+}
+
+.table {
+    width: 85vw;
+    margin-left: 7.5vw;
+    margin-top: 3vh;
+}
+
+td,
+th,
+tr {
+    border: solid 1px whitesmoke;
+}
